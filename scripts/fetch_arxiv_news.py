@@ -19,12 +19,12 @@ class ArxivNewsFetcher:
         self.base_url = "http://export.arxiv.org/api/query"
         self.categories = ['cs.AI', 'cs.LG', 'cs.CL', 'cs.RO']
 
-    def fetch_recent_papers(self, days: int = 2, max_results: int = 15) -> List[Dict[str, Any]]:
+    def fetch_recent_papers(self, days: int = 7, max_results: int = 15) -> List[Dict[str, Any]]:
         """
         Fetch recent papers from arXiv using API
 
         Args:
-            days: Number of days to look back
+            days: Number of days to look back (default: 7, extended to catch slower submission periods)
             max_results: Maximum number of papers to return
 
         Returns:
@@ -152,10 +152,14 @@ class ArxivNewsFetcher:
 
         # Format each paper
         for i, paper in enumerate(papers, 1):
+            # Format published date for display
+            pub_dt = parser.parse(paper['published'])
+            pub_display = pub_dt.strftime('%Y-%m-%d %H:%M')
+
             md_content += f"""### {paper['title']}
 
 **来源**: arXiv {paper['primary_category'].upper()}
-**时间**: {paper['published']}
+**时间**: {pub_display}
 **链接**: [{paper['id']}]({paper['url']})
 
 **摘要**: {paper['abstract']}
@@ -198,7 +202,7 @@ def main():
 
     # Fetch recent papers
     print("📡 正在获取 arXiv 最新论文...", file=sys.stderr)
-    papers = fetcher.fetch_recent_papers(days=2, max_results=15)
+    papers = fetcher.fetch_recent_papers(days=7, max_results=15)
 
     if not papers:
         print("❌ 未能获取到任何论文", file=sys.stderr)
