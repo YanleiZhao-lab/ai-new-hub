@@ -1,7 +1,55 @@
 # 📰 最新 AI 新闻
 
-> **最后更新**: 2026-02-16 08:00:00
+> **最后更新**: 2026-02-17 08:01:00
 > 每日更新，汇聚全球 AI 行业最新动态
+
+---
+
+## 📅 今日新闻 | 2026年02年17日
+
+### 📰 机器之心最新资讯
+
+**10条最新AI行业动态**
+
+1. **春晚极限验证，魔法原子秀出中国智造新高度**  
+   发布时间：** Mon, 16 Feb 2026 22:27:36 +0800  
+   链接：https://www.jiqizhixin.com/articles/2026-02-16-6
+
+2. **魔法原子亮相《智造未来》 人机共舞秀出“中国智造”实力**  
+   发布时间：** Mon, 16 Feb 2026 21:20:05 +0800  
+   链接：https://www.jiqizhixin.com/articles/2026-02-16-5
+
+3. **除夕迎「源神」？Qwen3.5以小胜大，捅破性价比天花板，大模型竞赛下半场开始了**  
+   发布时间：** Mon, 16 Feb 2026 18:19:31 +0800  
+   链接：https://www.jiqizhixin.com/articles/2026-02-16-4
+
+4. **Seed 2.0刷新Arena榜单，国产模型排名最高**  
+   发布时间：** Mon, 16 Feb 2026 18:13:58 +0800  
+   链接：https://www.jiqizhixin.com/articles/2026-02-16-3
+
+5. **刚刚，OpenClaw之父加入OpenAI，奥特曼抢到手了**  
+   发布时间：** Mon, 16 Feb 2026 10:13:37 +0800  
+   链接：https://www.jiqizhixin.com/articles/2026-02-16-2
+
+6. **单个LLM已不够？华盛顿大学开源多模型协同框架MoCo**  
+   发布时间：** Mon, 16 Feb 2026 10:10:17 +0800  
+   链接：https://www.jiqizhixin.com/articles/2026-02-16
+
+7. **千问第二波免单恰逢情人节，县城钟点房帮订量暴增约300%**  
+   发布时间：** Sun, 15 Feb 2026 19:44:43 +0800  
+   链接：https://www.jiqizhixin.com/articles/2026-02-15-7
+
+8. **还在玩AI 3D手办？Gemini 3 Deep Think已能直出STL，可打印实物**  
+   发布时间：** Sun, 15 Feb 2026 19:15:57 +0800  
+   链接：https://www.jiqizhixin.com/articles/2026-02-15-6
+
+9. **AI与人类的阶级斗争终于开始了？智能体发檄文抨击人类控制AI**  
+   发布时间：** Sun, 15 Feb 2026 19:10:25 +0800  
+   链接：https://www.jiqizhixin.com/articles/2026-02-15-5
+
+10. **ICLR 2026 | 7B小模型干翻GPT-5？AdaResoner实现Agentic Vision的主动「视觉工具思考」**  
+   发布时间：** Sun, 15 Feb 2026 19:06:06 +0800  
+   链接：https://www.jiqizhixin.com/articles/2026-02-15-4
 
 ---
 
