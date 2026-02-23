@@ -3,57 +3,94 @@
 > 追踪AI领域的最新学术研究和技术突破
 > Tracking latest academic research and technological breakthroughs in AI
 
-**最后更新**: 2026-02-14 08:01:25
+**最后更新**: 2026-02-23 09:45:00
 
 ---
 
 ## 📅 今日研究 | Today's Research
 
-### 2026年2月14日 | 15篇重要论文
+### 2026年2月23日 | 5篇重要论文
 
-**研究方向：** AI Agent、多模态、RAG、机器人学
+**研究方向：** 检索优化、多模态压缩、代码评测、机器人世界模型
 
 ---
 
 ### 🔥 核心研究突破 | Core Research Breakthroughs
 
-#### 1. AI科研智能体 | AI Research Agents
+#### 1. LightRetriever：彻底移走Query侧算力瓶颈
 
-**Agentic Test-Time Scaling for WebAgents**
-- 🔗 https://arxiv.org/abs/2602.12276
-- 📅 2026-02-14
+**会议**: ICLR 2026
+**机构**: 机器之心报道
 
-**AttentionRetriever: Attention Layers are Secretly Long Document Retrievers**
-- 🔗 https://arxiv.org/abs/2602.12278
-- 📅 2026-02-14
+**核心创新**：
+- 首次质疑Query端是否需要和Document端一样"重"的大模型
+- 提出不对称双塔架构
+- 大幅降低部署成本的同时保持性能
+- **明确、激进、但被大量实验证实的答案：不需要**
 
-**UniT: Unified Multimodal Chain-of-Thought Test-time Scaling**
-- 🔗 https://arxiv.org/abs/2602.12279
-- 📅 2026-02-14
+#### 2. 首篇多模态长上下文Token压缩综述
+
+**会议**: TMLR 2026
+**机构**: 浙江大学、西湖大学等
+
+**研究背景**：
+- GPT-4o、Gemini 3Pro等MLLM处理越来越长的上下文
+- 一张高清图产生的Token是文本的数千倍
+- 自注意力机制的二次复杂度导致推理成本飙升
+
+**贡献**：
+- 提出统一的分类体系
+- 深入剖析图像、视频、音频模态的压缩机制
+- 为高效MLLM研究指明方向
+
+#### 3. Code2Bench：代码大模型告别"躺平刷分"
+
+**会议**: ICLR 2026
+**机构**: 北京航空航天大学
+
+**问题痛点**：
+- HumanEval、MBPP等基准成绩近乎饱和
+- 数据污染风险（"开卷考试"）
+- "正确的幻觉"（Illusion of Correctness）
+
+**创新方案**：
+- 双重扩展（Dual Expansion）基准构建哲学
+- 动态评测机制
+- 打破"高分幻觉"，测试真实泛化能力
+
+#### 4. BridgeV2W：打通视频生成与机器人世界模型
+
+**核心突破**：仅凭"动作剪影"连接两个领域
+
+**研究动机**：
+- 机器人在行动前需要"预演能力"
+- 视频生成模型有强大视觉先验（Sora、Wan等）
+- 但视频由像素编织，机器人用的是语言-动作
+
+**解决方案**：
+- BridgeV2W架起桥梁
+- 让机器人学会"预演未来"
+- 赋予机器人世界模型能力
+
+#### 5. CVPR 2026放榜
+
+**会议**: CVPR 2026（6月3-7日，美国丹佛）
+
+**录用数据**：
+- 投稿总数：16,092篇
+- 录用论文：4,090篇
+- **录用率：25.42%**
 
 ---
 
-## 📅 历史研究 | Historical Research
+## 📚 历史研究 | Historical Research
 
-### 2026年2月14日
+### 2026年2月14日 | 15篇重要论文
 
-- [今日论文（15条）](/news/2026-02-14.md)
+**研究方向：** AI Agent、多模态、RAG、机器人学
 
-### 2026年2月11日
-
-- [AI研究论文（9条）](/news/2026-02-11-ai-research.md)
-
-### 2026年2月10日
-
-- [AI研究论文（8条）](/news/2026-02-10.md)
-
-### 2026年2月
-
-- [02-08](/news/2026-02-08.md) - 综合资讯
-- [02-07](/news/2026-02-07.md) - 综合资讯
+[查看完整内容](/news/2026-02-14.md)
 
 ---
 
-**数据来源 | Data Sources:** arXiv AI + cs.LG
-
-**整理工具 | Curated by:** OpenClaw AI Assistant
+*追踪前沿，探索未知* 🔬
