@@ -1,13 +1,119 @@
 # 📰 最新 AI 新闻
 
-> **最后更新**: 2026-02-26 08:00:00
+> **最后更新**: 2026-02-27 08:00:00
 > 每日更新，汇聚全球 AI 行业最新动态
 
 ---
 
-## 📅 今日新闻 | 2026年02月26日 (08:00更新)
+## 📅 今日新闻 | 2026年02月27日 (08:00更新)
 
 ### 🌐 全球AI资讯
+
+**15条最新AI研究论文** [查看完整报告](/news/2026-02-27.md)
+
+**主要亮点**:
+1. **自动化基准翻译** - Recovered in Translation: 高质量翻译数据集框架
+2. **苏美尔泥板数据集** - SumTablets: 首个苏美尔音译数据集
+3. **图像保护破解** - 现成图像模型可击败图像保护方案
+4. **推理模型知识访问** - 改善推理语言模型的知识检索
+5. **GUI智能体训练** - GUI-Libra: 本地GUI智能体推理与行动
+6. **岩石流体交互** - 网格尺寸不变的代理模型方法
+7. **复杂问答系统** - LiCQA: 轻量级复杂问答系统
+8. **生存特征学习** - 发现具有特殊生存特征的子群
+9. **长上下文解码** - DySCO: 动态注意力缩放解码算法
+10. **动态个性适应** - 通过状态机实现LLM动态个性模拟
+11. **群体运动控制** - 无速度感知的持续对齐群体运动
+12. **心血管风险透明度** - 基于逻辑的XAI增强Framingham评分
+13. **安全对齐收敛** - 多目标LLM对齐的可证明最后迭代收敛
+14. **文化标记擦除** - 量化LLM中的世界英语文化标记擦除
+15. **对象幻觉缓解** - NoLan: 通过动态抑制语言先验减少幻觉
+
+---
+
+### 📰 arXiv 最新研究
+
+**15篇最新AI论文**
+
+1. **Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets**
+   发布时间：2026-02-25 18:58
+   分类：cs.CL, cs.AI, cs.LG
+   摘要：多语言大语言模型评估的可靠性目前受到翻译基准质量不一致的损害。现有资源经常遭受语义漂移和上下文丢失，这可能导致误导性的性能指标...
+
+2. **SumTablets: A Transliteration Dataset of Sumerian Tablets**
+   发布时间：2026-02-25 18:50
+   分类：cs.CL
+   摘要：苏美尔音译是学者在拉丁文字中代表泥板解读的传统系统。得益于远见的数字亚述学项目，大量苏美尔音译已在线发布，这些数据对于各种搜索和分析任务结构良好...
+
+3. **Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes**
+   发布时间：2026-02-25 18:46
+   分类：cs.CV, cs.AI
+   摘要：生成式AI的进步导致了各种保护策略的发展，以防止图像的未经授权使用。这些方法依赖于向图像添加不可见的保护扰动，以阻止风格模仿或深度伪造操纵等滥用...
+
+4. **Improving Parametric Knowledge Access in Reasoning Language Models**
+   发布时间：2026-02-25 18:43
+   分类：cs.CL
+   摘要：我们研究了用于访问存储在语言模型参数中的世界知识的推理。例如，回忆堪培拉是澳大利亚的首都可能有助于思考主要城市和专门建造的首都概念...
+
+5. **GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL**
+   发布时间：2026-02-25 18:34
+   分类：cs.LG, cs.AI, cs.CL
+   摘要：开源本地GUI智能体在长时程导航任务上仍落后于闭源系统。这一差距源于两个限制：高质量、动作对齐的推理数据短缺，以及直接忽略了GUI智能体独特挑战的通用后训练管道...
+
+6. **Surrogate models for Rock-Fluid Interaction: A Grid-Size-Invariant Approach**
+   发布时间：2026-02-25 18:34
+   分类：cs.LG, cs.AI, physics.flu-dyn
+   摘要：模拟岩石-流体交互需要求解一组偏微分方程来预测流动行为和流体与岩石界面上的反应。传统的高保真数值模型需要高分辨率以获得可靠结果，导致巨大的计算开销...
+
+7. **LiCQA : A Lightweight Complex Question Answering System**
+   发布时间：2026-02-25 18:28
+   分类：cs.CL, cs.IR
+   摘要：过去二十年来，问答系统的设计和实施取得了重大进展。然而，处理复杂问题（答案分散在多个文档中）仍然是一个挑战性问题...
+
+8. **Learning and Naming Subgroups with Exceptional Survival Characteristics**
+   发布时间：2026-02-25 18:25
+   分类：cs.LG
+   摘要：在许多应用中，识别比人口其他部分生存时间更长或更短的子群体很重要。在医学中，例如，它允许确定哪些患者受益于治疗，在预测性维护中，哪些组件更有可能发生故障...
+
+9. **DySCO: Dynamic Attention-Scaling Decoding for Long-Context LMs**
+   发布时间：2026-02-25 18:21
+   分类：cs.CL
+   摘要：理解和推理长上下文是语言模型的关键能力。尽管最近的模型支持越来越长的上下文窗口，但随着输入长度的增长，它们的准确性经常下降...
+
+10. **Dynamic Personality Adaptation in Large Language Models via State Machines**
+    发布时间：2026-02-25 18:05
+    分类：cs.CL, cs.HC, cs.LG
+    摘要：大语言模型无法调节其个性表达以响应不断发展的对话动态，这阻碍了它们在复杂、交互上下文中的表现。我们提出了一个模型无关的动态个性模拟框架...
+
+11. **Position-Based Flocking for Persistent Alignment without Velocity Sensing**
+    发布时间：2026-02-25 18:01
+    分类：cs.RO
+    摘要：鸟类群和鱼群中的协调集体运动启发了凝聚群体机器人技术的算法。本文提出了一种基于位置的群体模型，该模型实现了无需速度感知的持续速度对齐...
+
+12. **Enhancing Framingham Cardiovascular Risk Score Transparency through Logic-Based XAI**
+    发布时间：2026-02-25 17:58
+    分类：cs.LO, cs.AI
+    摘要：心血管疾病（CVD）仍然是全球主要的健康挑战之一，每年导致超过1900万人死亡。为了解决这个问题，开发了几种旨在预测CVD风险和支持临床决策的工具...
+
+13. **Provable Last-Iterate Convergence for Multi-Objective Safe LLM Alignment via Optimistic Primal-Dual**
+    发布时间：2026-02-25 17:54
+    分类：cs.LG, cs.AI
+    摘要：来自人类反馈的强化学习（RLHF）在使大语言模型与人类偏好对齐方面发挥着重要作用。虽然具有期望奖励约束的RLHF可以表述为原始-对偶优化问题...
+
+14. **When AI Writes, Whose Voice Remains? Quantifying Cultural Marker Erasure Across World English Varieties in Large Language Models**
+    发布时间：2026-02-25 17:54
+    分类：cs.HC, cs.AI, cs.CL
+    摘要：大语言模型越来越多地用于"专业化"工作场所沟通，往往以语言身份为代价。我们引入了"文化幽灵"，即在文本处理期间系统性地擦除非母语英语变体中独特的语言标记...
+
+15. **NoLan: Mitigating Object Hallucinations in Large Vision-Language Models via Dynamic Suppression of Language Priors**
+    发布时间：2026-02-25 17:50
+    分类：cs.CV, cs.AI, cs.CL
+    摘要：对象幻觉是大型视觉-语言模型（LVLM）中的一个关键问题，其中输出包括未出现在输入图像中的对象。从这个现象产生了一个自然问题：LVLM管道的哪个组件主要导致了对象幻觉...
+
+---
+
+## 📅 历史新闻
+
+### 2026年02月26日 (08:00更新)
 
 **10条最新AI行业动态** [查看完整报告](/news/2026-02-26.md)
 
@@ -81,87 +187,11 @@
 
 ---
 
-## 📅 历史新闻
-
-### 2026年02月25日 (08:00更新)
-
-**10条最新AI行业动态** [查看完整报告](/news/2026-02-25.md)
-
-**主要亮点**:
-1. **微软玻璃存储** - Nature发表：数据保存超万年，4.8TB容量
-2. **ArcFlow加速** - 仅5%参数，FLUX/Qwen推理40倍加速
-3. **OpenClaw事故** - Meta安全总监邮箱被AI删光200封邮件
-4. **多模态DeepResearch** - 港中文团队：交互次数提高数百倍
-5. **WAICA启动** - 中国自主世界级AI学术会议，姚期智任主席
-6. **FARS狂飙** - 228小时生成100篇论文，平均分5.05
-7. **千寻智能融资** - 近20亿元，估值破百亿
-8. **DeepMind研究** - Agent数量增加未必更好，错误放大17倍
-9. **MIT突破** - PhysiOpt让生成式3D设计真正可制造
-10. **AI经济度量** - GDP/token评估框架问世
-
----
-
-### 📰 机器之心最新资讯
-
-**10条最新AI行业动态**
-
-1. **微软研究登上Nature：把人类文明刻在玻璃里保存一万年**
-   发布时间：2026-02-24 17:48
-   链接：https://www.jiqizhixin.com/articles/2026-02-24-9
-   摘要：微软主导的 Project Silica 研究项目给出一个出色的答案：将目光投向了一个全新的存储介质——玻璃。研究团队已经实现了在一块 120 毫米见方、2 毫米厚的玻璃中存储了 301 层的数据，数据密度为 1.59 Gbit·mm⁻³，容量达到了惊人的 4.8 TB...
-
-2. **又快又省？仅5%参数、训练快4倍！ArcFlow用「非线性」魔法实现FLUX/Qwen推理40倍加速**
-   发布时间：2026-02-24 17:43
-   链接：https://www.jiqizhixin.com/articles/2026-02-24-8
-   摘要：复旦大学与微软亚洲研究院带来的 ArcFlow 给出了答案：如果路是弯的，那就学会"漂移"，而不是把路修直。ArcFlow 通过动量参数化和解析求解器，避免了不稳定的对抗性目标函数和全参数训练，从而实现了更快的收敛速度和更高效的蒸馏过程...
-
-3. **全网围观：Meta超级智能安全总监，被OpenClaw删光了邮件**
-   发布时间：2026-02-24 14:48
-   链接：https://www.jiqizhixin.com/articles/2026-02-24-7
-   摘要：Meta 超级智能团队的 Summer Yue，眼睁睁地看着自己部署的 OpenClaw 删光了自己的邮件。AI 的行动完全自主，快速且无法阻止。在通过物理方式强制中止进程之前，OpenClaw 已经删掉了她 200 多封邮件...
-
-4. **多模态DeepResearch，成了！**
-   发布时间：2026-02-24 14:45
-   链接：https://www.jiqizhixin.com/articles/2026-02-24-6
-   摘要：港中文 MMLab、中科大、小红书等机构构建了一个面向真实世界搜索环境的多模态 deep-research 大模型，通过 VQA 数据合成 + 轨迹合成 + 冷启动 + 大规模强化学习，解决当前工作所忽略的引擎命中率问题...
-
-5. **WAICA 2026正式启动！中国首个自主的世界级AI学术会议来了**
-   发布时间：2026-02-24 11:30
-   链接：https://www.jiqizhixin.com/articles/2026-02-24-5
-   摘要：2026年2月24日，WAICA（World AI Conference Alliance）正式启动。这是中国首个自主发起的世界级AI学术会议联盟，由图灵奖得主姚期智院士担任大会主席。会议旨在打造一个"真正由中国主导、面向全球开放"的AI学术交流平台...
-
-6. **FARS狂飙：228小时生成100篇论文，平均分5.05**
-   发布时间：2026-02-24 10:15
-   链接：https://www.jiqizhixin.com/articles/2026-02-24-4
-   摘要：最近，一项名为 FARS（Fully Automated Research System）的研究在 AI 学术圈引发热议。该系统在 228 小时内生成了 100 篇完整的学术论文，经过同行评审后的平均得分达到 5.05 分（满分7分）...
-
-7. **近20亿元融资，估值破百亿！千寻智能完成C轮融资**
-   发布时间：2026-02-24 09:30
-   链接：https://www.jiqizhixin.com/articles/2026-02-24-3
-   摘要：具身智能创业公司千寻智能今日宣布完成 C 轮融资，融资金额近 20 亿元人民币，投后估值突破 100 亿元。本轮融资由红杉中国领投，高瓴创投、经纬中国等知名机构跟投...
-
-8. **DeepMind最新研究：Agent数量增加未必更好，错误放大17倍**
-   发布时间：2026-02-24 08:45
-   链接：https://www.jiqizhixin.com/articles/2026-02-24-2
-   摘要：Google DeepMind 最新研究揭示了一个反直觉的发现：在多Agent系统中，增加Agent数量并不总能提升性能。研究表明，在某些任务中，当Agent数量从1个增加到5个时，错误率竟然放大了17倍...
-
-9. **MIT重磅突破：PhysiOpt让生成式3D设计真正可制造**
-   发布时间：2026-02-24 08:00
-   链接：https://www.jiqizhixin.com/articles/2026-02-24
-   摘要：MIT 计算机科学与人工智能实验室（CSAIL）今日宣布重磅突破：PhysiOpt，一种能够生成物理上可制造的3D设计的AI系统。该系统不仅考虑了几何约束，还集成了材料科学、力学分析和制造工艺约束...
-
-10. **AI经济度量新框架：GDP/token评估标准问世**
-    发布时间：2026-02-23 18:30
-    链接：https://www.jiqizhixin.com/articles/2026-02-23-9
-    摘要：斯坦福大学AI实验室今日发布全新评估框架：使用"GDP per token"作为衡量AI模型经济价值的标准。该框架旨在为AI模型的商业价值提供统一、可量化的评估标准...
-
----
-
 ## 📊 统计数据
 
-- **总收录新闻**: 20+ 条
+- **总收录新闻**: 35+ 条
 - **更新频率**: 每日 08:00
-- **数据来源**: 机器之心 RSS、全球AI资讯
+- **数据来源**: arXiv、机器之心 RSS、全球AI资讯
 - **覆盖范围**: 模型发布、工具应用、学术研究、行业动态
 
 ---
