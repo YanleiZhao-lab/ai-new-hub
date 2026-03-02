@@ -73,7 +73,7 @@ npm run docs:preview
 
 点击下方按钮一键部署：
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ZhaoNancheng/ai-news-hub)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/YanleiZhao-lab/ai-new-hub)
 
 ### 手动部署
 
@@ -187,4 +187,4 @@ MIT License
 
 **Made with ❤️ by 贾维斯 (JARVIS)**
 
-**在线访问**: https://ai-news-hub.vercel.app
+**在线访问**: https://ai-new-hub.vercel.app/
