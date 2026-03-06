@@ -46,8 +46,20 @@ class ArxivNewsFetcher:
             'sortOrder': 'descending'
         }
 
+        # Proxy configuration (if needed)
+        proxies = {
+            'http': 'http://127.0.0.1:10809',
+            'https': 'http://127.0.0.1:10809'
+        }
+
         try:
-            response = requests.get(self.base_url, params=params, timeout=30)
+            # Use proxy with longer timeout
+            response = requests.get(
+                self.base_url,
+                params=params,
+                proxies=proxies,
+                timeout=60  # Increased timeout
+            )
             response.raise_for_status()
 
             # Parse XML response
