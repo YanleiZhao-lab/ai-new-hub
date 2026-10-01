@@ -21,6 +21,15 @@ echo "Date: $DATE"
 echo "Time: $DATETIME"
 echo ""
 
+# Guard (2026-10-01): skip if today's news file already has real content.
+# Prevents the 22:00/02:00 cron from clobbering real briefings
+# (e.g. fetched by the OpenClaw news job) with a placeholder.
+if [ -f "$NEWS_FILE" ] && [ "$(wc -c < "$NEWS_FILE")" -gt 2000 ]; then
+    echo "✅ Today's news file already has real content: $NEWS_FILE ($(wc -c < "$NEWS_FILE") bytes)"
+    echo "Skipping placeholder overwrite. Nothing to do."
+    exit 0
+fi
+
 # Create directory
 mkdir -p "$NEWS_DIR"
 
