@@ -46,21 +46,34 @@ class ArxivNewsFetcher:
             'sortOrder': 'descending'
         }
 
-        # Proxy configuration (if needed)
-        proxies = {
+        # Connection strategy: direct first (proxy may be down), proxy as fallback
+        direct_proxies = {'http': None, 'https': None}
+        fallback_proxies = {
             'http': 'http://127.0.0.1:10809',
             'https': 'http://127.0.0.1:10809'
         }
 
+        response = None
+        last_err = None
+        for proxies, label in ((direct_proxies, 'direct'), (fallback_proxies, 'proxy')):
+            try:
+                response = requests.get(
+                    self.base_url,
+                    params=params,
+                    proxies=proxies,
+                    timeout=(15 if label == 'direct' else 60)
+                )
+                response.raise_for_status()
+                print(f"  arXiv fetch via {label} OK")
+                break
+            except Exception as e:
+                last_err = e
+                print(f"  arXiv fetch via {label} failed: {e}")
+                response = None
+
         try:
-            # Use proxy with longer timeout
-            response = requests.get(
-                self.base_url,
-                params=params,
-                proxies=proxies,
-                timeout=60  # Increased timeout
-            )
-            response.raise_for_status()
+            if response is None:
+                raise last_err
 
             # Parse XML response
             root = ET.fromstring(response.content)
