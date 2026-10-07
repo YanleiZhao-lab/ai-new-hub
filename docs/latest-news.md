@@ -2,6 +2,22 @@
 
 最新 AI 新闻汇总
 
+## 2026-10-07
+
+[查看今日 AI 新闻](./news/2026-10-07.md)
+
+**今日亮点：**
+- 🚀 Mistral 发布 Large 4：1T 参数旗舰多模态模型，剑指中美闭源与开源对手（HN 1550 分全站刷屏）
+- 🧮 OpenAI 发文《Sharing AI progress in mathematics》，AI 数学叙事持续发酵（HN 257 分）
+- 💰 Nvidia 投资的 Lambda 拟融资 40 亿美元、投前估值 145 亿，筹备 2027 IPO
+- 🎁 Anthropic 向初创企业送一年免费 Claude Team + $1000 token 额度
+- 🚪 AI Agent 落地新障碍：网站反爬与刻意封锁把 Agent 挡在门外
+- 🛡️ Musubi 开源 PolicyLM-1.7B 轻量实时内容审核决策模型
+- 📄 LibreOffice 宣布"无 AI"是一种软件特性：默认配置不集成 AI，主打隐私
+- 🔧 OpenTPU 开源 AI 加速器项目登上 HN 热榜（210 分，275 讨论）
+
+---
+
 ## 2026-10-06
 
 [查看今日 AI 新闻](./news/2026-10-06.md)
