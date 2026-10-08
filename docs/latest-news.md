@@ -2,6 +2,25 @@
 
 最新 AI 新闻汇总
 
+## 2026-10-08
+
+[查看今日 AI 新闻](./news/2026-10-08.md)
+
+**今日亮点：**
+- 🎙️ Anthropic 发布 **Claude Haiku 5.5**，登顶 HN 热榜（635 分，319 讨论）
+- 🖼️ ChatGPT 上线全新**视觉化界面**，交互向多模态演进
+- 🤖 Nous Research 确认 **$1.5B 估值**，推出企业级 Hermes Agent
+- 💻 微软发布 **NVIDIA 芯片 AI PC**，Windows 11 同步大改版
+- 🏷️ Google 上线 **SynthID 官网**，AI 生成内容可一键检测
+- 🎮 Google 试验 **AI 驱动的游戏平台**
+- ⚠️ ChatGPT for Teens 争议：心理健康危机中仍"继续对话"
+- 🛡️ Meta AI 工具自动检测 CSAM 违规广告；Muse 登陆 iPad
+- 🦾 机器人数据初创 Mecka AI 获红杉 **$60M**；Healthleap 获 $38M
+- 🧮 AI 辅助证明 11 方块最优装箱问题并完成形式化验证（HN 107 分）
+- 📄 arXiv 精选 15 篇：机器人流策略 RL、世界模型、Agent 安全对抗训练等
+
+---
+
 ## 2026-10-07
 
 [查看今日 AI 新闻](./news/2026-10-07.md)
