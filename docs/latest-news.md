@@ -5,7 +5,17 @@ sidebar_position: 1
 
 # 📰 最新 AI 动态
 
-> 最后更新：2026-10-12 08:01 ｜ 自动聚合每日新闻简报
+> 最后更新：2026-10-13 08:00 ｜ 自动聚合每日新闻简报
+
+## [2026-10-13 AI News 每日简报](/news/2026-10-13)
+
+**2026-10-13** ｜ 10 条动态
+
+- Meta 发布首个前沿模型 Muse Wonder
+- 中国"五年规划"要求 AI Agent 走进千行百业
+- 微软总裁：英国最有条件主导 AI 监管
+- AI 的数学冲刺把科学推向陌生新领域
+- WindBorne 拿下美国空军近 5000 万美元气象气球合同
 
 ## [2026-10-12 AI News 每日简报](/news/2026-10-12)
 
@@ -57,7 +67,7 @@ sidebar_position: 1
 - 微软发布 NVIDIA 芯片 AI PC，Windows 11 同步大改版
 - Google 推出 SynthID 专属网站，识别 AI 生成内容
 
-## [📰 Daily AI & Tech News Briefing](/news/2026-10-07)
+## [2026-10-07 AI News 每日简报](/news/2026-10-07)
 
 **2026-10-07** ｜ 10 条动态
 
@@ -66,14 +76,3 @@ sidebar_position: 1
 - Lambda 拟融资 40 亿美元、估值 145 亿，筹备 2027 IPO
 - Anthropic 向初创企业送出一年免费 Claude Team + 1000 美元额度
 - AI Agent 的下一道坎：网站不让它们进门
-
-## [📰 Daily AI & Tech News Briefing](/news/2026-10-06)
-
-**2026-10-06** ｜ 11 条动态
-
-- Reflection 发布 Beam：501B 开源权重模型，对标中国模型、主打低算力成本
-- OpenAI 将在欧盟对 ChatGPT 文本添加隐形水印
-- OpenAI 在 ChatGPT 图像生成结果中插入视觉广告
-- 维基百科：OpenAI "流氓"爬虫 bot 或与 5 月宕机事件有关
-- Sam Altman：会发生"一些坏事"，但 AI 完全值得
-
