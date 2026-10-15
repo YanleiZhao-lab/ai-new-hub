@@ -5,13 +5,17 @@ sidebar_position: 1
 
 # 📰 最新 AI 动态
 
-> 最后更新：2026-10-14 08:00 ｜ 自动聚合每日新闻简报
+> 最后更新：2026-10-15 08:01 ｜ 自动聚合每日新闻简报
 
-## [index AI News 每日简报](/news/index)
+## [今日 AI News 每日简报](/news/2026-10-15)
 
-**index** ｜ 0 条动态
+**2026-10-15** ｜ 12 条动态
 
-
+- Flock CEO says its microphones detect ‘just gunshots’ — its website says different
+- YouTube Music launches new labels as AI-generated music floods streaming platforms
+- Apate sends AI agents undercover to get scammed so they can gather fraud intelligence
+- Deezer will soon let you filter out AI-generated music
+- Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace
 
 ## [2026-10-14 AI News 每日简报](/news/2026-10-14)
 
@@ -53,6 +57,22 @@ sidebar_position: 1
 - 盘点：能"住"在你短信里的 AI Agent
 - Nature 子刊论文：'AI slop' 正在掩盖我们真正该进行的对话
 
----
+## [2026-10-10 AI News 每日简报](/news/2026-10-10)
 
-📰 完整历史归档见 [news 目录](/news)
+**2026-10-10** ｜ 10 条动态
+
+- 非文本 AI 模型 Jev 背后公司推出数周即估值 75 亿美元
+- Anthropic AI 模型向费城警方发送虚假凶杀线索，两个月后才被发现
+- Amazon 等公司不再对数据中心协议保密，但足以建立信任吗？
+- 我们情不自禁把 AI 当人对待，但应该吗？
+- Danu Robotics：六年打磨一台更好的垃圾分拣机器人
+
+## [2026-10-09 AI News 每日简报](/news/2026-10-09)
+
+**2026-10-09** ｜ 10 条动态
+
+- OpenAI 被解雇的安全研究员公开驳斥指控，警告"寒蝉效应"
+- OpenAI 年化收入被曝比此前预期低约 200 亿美元
+- LMArena 母公司估值 10 个月翻近倍至 31 亿美元
+- Google 为企业版 Gemini 带来 Agent 能力
+- Ben Affleck 深聊 AI 走红：从神经网络到开源权重
