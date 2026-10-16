@@ -5,9 +5,20 @@ sidebar_position: 1
 
 # 📰 最新 AI 动态
 
-> 最后更新：2026-10-15 08:01 ｜ 自动聚合每日新闻简报
+> 最后更新：2026-10-16 08:00 ｜ 自动聚合每日新闻简报
 
-## [今日 AI News 每日简报](/news/2026-10-15)
+## [今日 AI News 每日简报](/news/2026-10-16)
+
+**2026-10-16** ｜ 12 条动态
+
+- ChatGPT can peek at your Chrome tabs now
+- Sega pulls Total War: Shogun 2 remaster from sale following disastrous launch
+- The tech backlash is now in theaters
+- Trump posts AI-edited photo to brag about White House restoration work
+- Bluesky’s AI tool now lets you make games and apps to share on social
+
+
+## [2026-10-15 AI News 每日简报](/news/2026-10-15)
 
 **2026-10-15** ｜ 12 条动态
 
