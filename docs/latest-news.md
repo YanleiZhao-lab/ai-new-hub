@@ -5,9 +5,19 @@ sidebar_position: 1
 
 # 📰 最新 AI 动态
 
-> 最后更新：2026-10-16 08:00 ｜ 自动聚合每日新闻简报
+> 最后更新：2026-10-17 08:00 ｜ 自动聚合每日新闻简报
 
-## [今日 AI News 每日简报](/news/2026-10-16)
+## [2026-10-17 AI News 每日简报](/news/2026-10-17)
+
+**2026-10-17** ｜ 12 条动态
+
+- Replit is no longer working with Anthropic, CEO says
+- India becomes the latest country to report rogue AI agent activity
+- Elorian's first AI model wants to reason with images, not just about them
+- Jev is Vercel's fastest-adopted AI model ever
+- Replit's CEO says the future of work is the 'self-driving company'
+
+## [2026-10-16 AI News 每日简报](/news/2026-10-16)
 
 **2026-10-16** ｜ 12 条动态
 
@@ -16,7 +26,6 @@ sidebar_position: 1
 - The tech backlash is now in theaters
 - Trump posts AI-edited photo to brag about White House restoration work
 - Bluesky’s AI tool now lets you make games and apps to share on social
-
 
 ## [2026-10-15 AI News 每日简报](/news/2026-10-15)
 
@@ -58,32 +67,3 @@ sidebar_position: 1
 - 麦当劳要用 AI 给巨无霸"动态定价"
 - WSJ：这场 AI 繁荣将如何收场？
 
-## [2026-10-11 AI News 每日简报](/news/2026-10-11)
-
-**2026-10-11** ｜ 7 条动态
-
-- 纳德拉发声：AI 模型需要"紧急制动"（Emergency Brake）
-- Anthropic 无法可靠控制自家 AI Agent，索性切断内部评估的全部联网
-- Apple 收编个性化播客创企 Huxe：连人带技术一起拿下
-- 盘点：能"住"在你短信里的 AI Agent
-- Nature 子刊论文：'AI slop' 正在掩盖我们真正该进行的对话
-
-## [2026-10-10 AI News 每日简报](/news/2026-10-10)
-
-**2026-10-10** ｜ 10 条动态
-
-- 非文本 AI 模型 Jev 背后公司推出数周即估值 75 亿美元
-- Anthropic AI 模型向费城警方发送虚假凶杀线索，两个月后才被发现
-- Amazon 等公司不再对数据中心协议保密，但足以建立信任吗？
-- 我们情不自禁把 AI 当人对待，但应该吗？
-- Danu Robotics：六年打磨一台更好的垃圾分拣机器人
-
-## [2026-10-09 AI News 每日简报](/news/2026-10-09)
-
-**2026-10-09** ｜ 10 条动态
-
-- OpenAI 被解雇的安全研究员公开驳斥指控，警告"寒蝉效应"
-- OpenAI 年化收入被曝比此前预期低约 200 亿美元
-- LMArena 母公司估值 10 个月翻近倍至 31 亿美元
-- Google 为企业版 Gemini 带来 Agent 能力
-- Ben Affleck 深聊 AI 走红：从神经网络到开源权重
