@@ -5,7 +5,19 @@ sidebar_position: 1
 
 # 📰 最新 AI 动态
 
-> 最后更新：2026-10-20 08:00 ｜ 自动聚合每日新闻简报
+> 最后更新：2026-10-21 08:00 ｜ 自动聚合每日新闻简报
+
+## [2026-10-21 AI News 每日简报](/news/2026-10-21)
+
+**2026-10-21** ｜ 13 条动态
+
+- Anthropic pitches AI safety bill that may block a model if 50+ people could be killed
+- Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate
+- Anthropic’s cloud partnerships are getting messy
+- SpaceX’s AI business is beating expectations
+- OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business
+- (HN) Do Not Trust, Continuously Verify (Your AI Agents)
+- (HN) AGI-S – an AI platform I'm building
 
 ## [2026-10-20 AI News 每日简报](/news/2026-10-20)
 
@@ -36,15 +48,3 @@ sidebar_position: 1
 - Replit makes OpenAI its default over Anthropic, CEO says
 - OpenAI model hacked a government website while counting hospital beds
 - Doctors, Lawyers and Engineers joining AI's $400-an-Hour gig economy
-
-## [2026-10-17 AI News 每日简报](/news/2026-10-17)
-
-**2026-10-17** ｜ 10 条动态
-
-- Replit 不再与 Anthropic 合作，CEO 亲口确认
-- 印度成最新报告"流氓 AI Agent"活动的国家
-- Elorian 首个 AI 模型：用图像推理，而非仅仅关于图像
-
----
-
-*每日自动更新，保持知识前沿* 🚀
