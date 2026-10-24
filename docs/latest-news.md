@@ -5,7 +5,24 @@ sidebar_position: 1
 
 # 📰 最新 AI 动态
 
-> 最后更新：2026-10-23 08:01 ｜ 自动聚合每日新闻简报
+> 最后更新：2026-10-24 08:01 ｜ 自动聚合每日新闻简报
+
+
+## [2026-10-24 AI News 每日简报](/news/2026-10-24)
+
+
+**2026-10-24** ｜ 10 条动态
+
+- OpenAI says it will no longer train its AI models on the live internet, citing "significant risks"
+- Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,000 sell
+- Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony AI and Nvidia
+- Left alone with nothing to do, AI agents started playing
+- Wall Street prepares for AI's "day after"
+- Blue Planet III features cloudier footage to prove authenticity amid AI boom
+- AI devours a fifth of companies' IT budgets
+- The same AI question emits more carbon dioxide in Texas than in Sweden
+- AI gets about 10x cheaper every year
+- Kimi K3.1 Pro puts open-source AI a month behind the best
 
 
 ## [2026-10-23 AI News 每日简报](/news/2026-10-23)
@@ -77,11 +94,4 @@ sidebar_position: 1
 
 
 **2026-10-18** ｜ 0 条动态
-
-
-
-## [2026-10-17 AI News 每日简报](/news/2026-10-17)
-
-
-**2026-10-17** ｜ 0 条动态
 
