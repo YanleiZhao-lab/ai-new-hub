@@ -5,7 +5,23 @@ sidebar_position: 1
 
 # 📰 最新 AI 动态
 
-> 最后更新：2026-10-25 08:00 ｜ 自动聚合每日新闻简报
+> 最后更新：2026-10-26 08:01 ｜ 自动聚合每日新闻简报
+
+
+## [2026-10-26 AI News 每日简报](/news/2026-10-26)
+
+
+**2026-10-26** ｜ 9 条动态
+
+- Grok releases the first seven minutes of its AI-generated ‘Odyssey’
+- AI is getting good at math, here's why
+- Apollo says AI has delivered 'zero financial payoff' outside the tech industry
+- Bend: A fast language that blocks AI mistakes via proof
+- Germany's Idle Nuclear Plants Eye New Life as AI Data Centers
+- Nvidia eyes converting old nuclear plants into AI data centers
+- China increasingly depends on copying American AI
+- Disadvantages of Designating Mathematicians for AI Output Releases
+- The hottest AI wearables and gadgets you should know about
 
 
 ## [2026-10-25 AI News 每日简报](/news/2026-10-25)
@@ -87,11 +103,4 @@ sidebar_position: 1
 
 
 **2026-10-20** ｜ 0 条动态
-
-
-
-## [2026-10-19 AI News 每日简报](/news/2026-10-19)
-
-
-**2026-10-19** ｜ 0 条动态
 
