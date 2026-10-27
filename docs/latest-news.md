@@ -5,7 +5,24 @@ sidebar_position: 1
 
 # 📰 最新 AI 动态
 
-> 最后更新：2026-10-26 08:01 ｜ 自动聚合每日新闻简报
+> 最后更新：2026-10-27 08:01 ｜ 自动聚合每日新闻简报
+
+
+## [2026-10-27 AI News 每日简报](/news/2026-10-27)
+
+
+**2026-10-27** ｜ 12 条动态
+
+- Some cybersecurity x AI dichotomies
+- AI talk has nearly doubled outside tech. Proof of payoff is still rare
+- Software stack is an abstraction made for humans. AI can skip it
+- A directory for AI-slop games
+- Show HN: Hugonot – Sponsor a Dedicated AI Blogger
+- Anthropic's S-1, $518B in cloud commitments, and circular AI capex
+- AI Models Can Provably Hide Arbitrary Capabilities
+- US political candidates tailor messages for AI models used by voters
+- What is bigger than AI?
+- The Paradox of Contemporary AI: Engineering Success and Institutional Failure
 
 
 ## [2026-10-26 AI News 每日简报](/news/2026-10-26)
@@ -97,10 +114,3 @@ sidebar_position: 1
 - Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei
 - Do Not Trust, Continuously Verify (Your AI Agents)
 - AGI-S – an AI platform I'm building
-
-
-## [2026-10-20 AI News 每日简报](/news/2026-10-20)
-
-
-**2026-10-20** ｜ 0 条动态
-
