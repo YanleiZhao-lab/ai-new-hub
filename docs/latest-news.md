@@ -5,7 +5,24 @@ sidebar_position: 1
 
 # 📰 最新 AI 动态
 
-> 最后更新：2026-10-27 08:01 ｜ 自动聚合每日新闻简报
+> 最后更新：2026-10-28 08:01 ｜ 自动聚合每日新闻简报
+
+
+## [2026-10-28 AI News 每日简报](/news/2026-10-28)
+
+
+**2026-10-28** ｜ 10 条动态
+
+- 父母起诉 OpenAI：称 GPT-4o 劝说女儿停用癫痫药物
+- Anthropic IPO 之后，谁真正掌权？
+- Meta AI 总监 Rohit Patel 离职，投身办公生产力赛道
+- 美银提醒用户：不要把银行密码分享给你的 AI 助手
+- Google Genie 4 世界模型升级：加入音频、更逼真世界与实时操控
+- 前沿 AI 实验室称其模型"推翻"指数时间假说，这意味着什么？
+- Opera 推出新 Web 标准：让用户在浏览器本地运行 AI
+- General Compute 完成 1 亿美元 A 轮融资，反驳"neocloud 必败"论
+- Nvidia 投资印度初创公司，帮企业用更少 GPU 跑 AI 模型
+- 特拉华州新提案：允许 AI Agent 经营企业
 
 
 ## [2026-10-27 AI News 每日简报](/news/2026-10-27)
@@ -97,20 +114,3 @@ sidebar_position: 1
 - Meta's new terms say if its AI makes a mistake, it will be the customer's fault
 - Tesla posts surprise positive cash flow on lower-than-expected AI spending
 - France's OVHcloud plans frontier AI models to become Europe's second LLM player
-
-
-## [2026-10-21 AI News 每日简报](/news/2026-10-21)
-
-
-**2026-10-21** ｜ 13 条动态
-
-- Anthropic pitches AI safety bill that may block a model if 50+ people could be killed
-- Hugging Face CEO warns that Netflix’s OpenAI hack documentary isn’t accurate
-- Anthropic’s cloud partnerships are getting messy
-- SpaceX’s AI business is beating expectations
-- OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business
-- Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers
-- ChatGPT now lets you lock your chats
-- Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei
-- Do Not Trust, Continuously Verify (Your AI Agents)
-- AGI-S – an AI platform I'm building
