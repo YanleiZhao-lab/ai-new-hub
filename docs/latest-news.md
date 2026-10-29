@@ -5,7 +5,24 @@ sidebar_position: 1
 
 # 📰 最新 AI 动态
 
-> 最后更新：2026-10-28 08:01 ｜ 自动聚合每日新闻简报
+> 最后更新：2026-10-29 08:02 ｜ 自动聚合每日新闻简报
+
+
+## [2026-10-29 AI News 每日简报](/news/2026-10-29)
+
+
+**2026-10-29** ｜ 15 条动态
+
+- 微软首次披露 Azure 实际营收：单季 332 亿美元
+- 微软单季从 OpenAI 获得约 100 亿美元收入
+- 微软连续 10 个季度营收创纪录
+- Google 全球扩展 AI Search 广告，核心广告增速放缓
+- Anthropic 推出企业级 AI 支出分析工具
+- VC 们将从 Anthropic IPO 中大赚，但亚马逊赚得更多
+- Chrome AI 自动填充升级：可挖掘你的 Gmail 来填表
+- AI Agent 重塑 Web：Google 向更多应用开放 Gemini 与 Search
+- Nvidia 发布开源语音转写模型：支持 40 种语言
+- Wiz CTO 警告："漏洞末日" 正在逼近互联网老龄化代码
 
 
 ## [2026-10-28 AI News 每日简报](/news/2026-10-28)
@@ -97,20 +114,3 @@ sidebar_position: 1
 - Spotify's current AI bet is about being the music service that agents choose
 - Unvetted AI agents are accessing U.S. bank accounts
 - Most Americans Say AI Is Bad for Society, Oppose More Data Centers
-
-
-## [2026-10-22 AI News 每日简报](/news/2026-10-22)
-
-
-**2026-10-22** ｜ 13 条动态
-
-- Meta says Muse has over 10M users, with shopping a top activity
-- While Amazon blocks AI agents, Walmart rolls out the welcome mat
-- PHP Armageddon: OpenAI, Google's Wiz find ancient holes, panicking the internet
-- Recursive launches Flint, a laptop coding model it says was largely built by AI
-- Blackstone's Jas Khaira says fears over AI-buildout debt are overblown
-- Blacksmith hits unicorn valuation after Sequoia leads Series C
-- AI promises productivity, but for managers, it's mostly a headache for now
-- Meta's new terms say if its AI makes a mistake, it will be the customer's fault
-- Tesla posts surprise positive cash flow on lower-than-expected AI spending
-- France's OVHcloud plans frontier AI models to become Europe's second LLM player
