@@ -5,7 +5,24 @@ sidebar_position: 1
 
 # 📰 最新 AI 动态
 
-> 最后更新：2026-11-01 08:01 ｜ 自动聚合每日新闻简报
+> 最后更新：2026-11-02 08:01 ｜ 自动聚合每日新闻简报
+
+
+## [2026-11-02 AI News 每日简报](/news/2026-11-02)
+
+
+**2026-11-02** ｜ 10 条动态
+
+- OpenAI might rebrand its data centers as 'AI compute campuses'
+- Empires of AI – By Eric Schmidt and Niall Ferguson
+- Hackers could poison AI models by tampering with core infrastructure
+- AI delivers 'zero financial payoff' to most companies, Apollo economist says
+- Avartha: Fastest open-weight frontier voice AI beats OpenAI, Google, and xAI
+- Proton's AI manifesto for software engineering
+- An AI runs a tiny web studio with a year to earn its existence
+- AI can make tech CEOs' lives easier. What about everyone else?
+- Show HN: Nonce – Open-source, least-privilege Gmail access for AI agents
+- Slop Code Monitor – scanned 2.6B lines of code to quantify AI cognitive debt
 
 
 ## [2026-11-01 AI News 每日简报](/news/2026-11-01)
@@ -88,19 +105,3 @@ sidebar_position: 1
 - US political candidates tailor messages for AI models used by voters
 - What is bigger than AI?
 - The Paradox of Contemporary AI: Engineering Success and Institutional Failure
-
-
-## [2026-10-26 AI News 每日简报](/news/2026-10-26)
-
-
-**2026-10-26** ｜ 9 条动态
-
-- Grok releases the first seven minutes of its AI-generated ‘Odyssey’
-- AI is getting good at math, here's why
-- Apollo says AI has delivered 'zero financial payoff' outside the tech industry
-- Bend: A fast language that blocks AI mistakes via proof
-- Germany's Idle Nuclear Plants Eye New Life as AI Data Centers
-- Nvidia eyes converting old nuclear plants into AI data centers
-- China increasingly depends on copying American AI
-- Disadvantages of Designating Mathematicians for AI Output Releases
-- The hottest AI wearables and gadgets you should know about
