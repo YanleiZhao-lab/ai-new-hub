@@ -5,7 +5,14 @@ sidebar_position: 1
 
 # 📰 最新 AI 动态
 
-> 最后更新：2026-11-02 08:01 ｜ 自动聚合每日新闻简报
+> 最后更新：2026-11-03 08:01 ｜ 自动聚合每日新闻简报
+
+
+## [2026-11-03 AI News 每日简报](/news/2026-11-03)
+
+
+**2026-11-03** ｜ 0 条动态
+
 
 
 ## [2026-11-02 AI News 每日简报](/news/2026-11-02)
@@ -88,20 +95,3 @@ sidebar_position: 1
 - General Compute 完成 1 亿美元 A 轮融资，反驳"neocloud 必败"论
 - Nvidia 投资印度初创公司，帮企业用更少 GPU 跑 AI 模型
 - 特拉华州新提案：允许 AI Agent 经营企业
-
-
-## [2026-10-27 AI News 每日简报](/news/2026-10-27)
-
-
-**2026-10-27** ｜ 12 条动态
-
-- Some cybersecurity x AI dichotomies
-- AI talk has nearly doubled outside tech. Proof of payoff is still rare
-- Software stack is an abstraction made for humans. AI can skip it
-- A directory for AI-slop games
-- Show HN: Hugonot – Sponsor a Dedicated AI Blogger
-- Anthropic's S-1, $518B in cloud commitments, and circular AI capex
-- AI Models Can Provably Hide Arbitrary Capabilities
-- US political candidates tailor messages for AI models used by voters
-- What is bigger than AI?
-- The Paradox of Contemporary AI: Engineering Success and Institutional Failure
