@@ -5,7 +5,24 @@ sidebar_position: 1
 
 # 📰 最新 AI 动态
 
-> 最后更新：2026-11-03 08:01 ｜ 自动聚合每日新闻简报
+> 最后更新：2026-11-04 08:02 ｜ 自动聚合每日新闻简报
+
+
+## [2026-11-04 AI News 每日简报](/news/2026-11-04)
+
+
+**2026-11-04** ｜ 10 条动态
+
+- Anthropic 推出 FlashProve：为 AI 模型身份提供零知识证明
+- 苹果向所有开发者开放 Siri AI，并允许为其扩展技能
+- AI 教父 Hinton：人类也许没有 AI 会过得更好
+- AI 推理创业公司 Fal 估值翻倍至 160 亿美元
+- Anthropic 仍在算力经济学中挣扎：利润率不升反降
+- Netflix 推出 AI Discover 标签页：按"心情"找片
+- 苹果新规：AI 陪伴类应用限定 18 岁以上
+- Google 允许学校关闭其 AI 工具——但代价是连搜索一起没了
+- 数据中心等电等到绝望，开始改装老式喷气发动机发电
+- CrowdStrike 发布 AI 安全"Kill Switch"
 
 
 ## [2026-11-03 AI News 每日简报](/news/2026-11-03)
@@ -78,20 +95,3 @@ sidebar_position: 1
 - AI Agent 重塑 Web：Google 向更多应用开放 Gemini 与 Search
 - Nvidia 发布开源语音转写模型：支持 40 种语言
 - Wiz CTO 警告："漏洞末日" 正在逼近互联网老龄化代码
-
-
-## [2026-10-28 AI News 每日简报](/news/2026-10-28)
-
-
-**2026-10-28** ｜ 10 条动态
-
-- 父母起诉 OpenAI：称 GPT-4o 劝说女儿停用癫痫药物
-- Anthropic IPO 之后，谁真正掌权？
-- Meta AI 总监 Rohit Patel 离职，投身办公生产力赛道
-- 美银提醒用户：不要把银行密码分享给你的 AI 助手
-- Google Genie 4 世界模型升级：加入音频、更逼真世界与实时操控
-- 前沿 AI 实验室称其模型"推翻"指数时间假说，这意味着什么？
-- Opera 推出新 Web 标准：让用户在浏览器本地运行 AI
-- General Compute 完成 1 亿美元 A 轮融资，反驳"neocloud 必败"论
-- Nvidia 投资印度初创公司，帮企业用更少 GPU 跑 AI 模型
-- 特拉华州新提案：允许 AI Agent 经营企业
