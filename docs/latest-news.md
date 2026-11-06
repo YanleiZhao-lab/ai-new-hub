@@ -5,7 +5,14 @@ sidebar_position: 1
 
 # 📰 最新 AI 动态
 
-> 最后更新：2026-11-06 08:02 ｜ 自动聚合每日新闻简报
+> 最后更新：2026-11-07 02:02 ｜ 自动聚合每日新闻简报
+
+
+## [2026-11-07 AI News 每日简报](/news/2026-11-07)
+
+
+**2026-11-07** ｜ 0 条动态
+
 
 
 ## [2026-11-06 AI News 每日简报](/news/2026-11-06)
@@ -78,10 +85,3 @@ sidebar_position: 1
 - AI text watermarking and quality loss
 - Critical Software is rebuilding itself around AI (200 ppl being laid off)
 - Show HN: Read your Character.AI data export in the browser, nothing uploaded
-
-
-## [2026-10-31 AI News 每日简报](/news/2026-10-31)
-
-
-**2026-10-31** ｜ 0 条动态
-
