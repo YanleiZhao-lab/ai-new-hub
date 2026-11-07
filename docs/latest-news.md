@@ -5,7 +5,14 @@ sidebar_position: 1
 
 # 📰 最新 AI 动态
 
-> 最后更新：2026-11-07 08:00 ｜ 自动聚合每日新闻简报
+> 最后更新：2026-11-08 02:32 ｜ 自动聚合每日新闻简报
+
+
+## [2026-11-08 AI News 每日简报](/news/2026-11-08)
+
+
+**2026-11-08** ｜ 0 条动态
+
 
 
 ## [2026-11-07 AI News 每日简报](/news/2026-11-07)
@@ -68,20 +75,3 @@ sidebar_position: 1
 - AI can make tech CEOs' lives easier. What about everyone else?
 - Show HN: Nonce – Open-source, least-privilege Gmail access for AI agents
 - Slop Code Monitor – scanned 2.6B lines of code to quantify AI cognitive debt
-
-
-## [2026-11-01 AI News 每日简报](/news/2026-11-01)
-
-
-**2026-11-01** ｜ 10 条动态
-
-- Apple CEO says the company doesn't 'want to ship AI for AI's sake'
-- When AI writes almost all code, what happens to software engineering?
-- Writing was flagged as AI. What does that mean?
-- Computer Science Programs Lose Students as AI Replaces Jobs
-- Judge allows NAACP lawsuit over xAI data center pollution to move forward
-- Reddit shares plunge as Google's AI search squeezes traffic
-- Will AI take your job? You have more agency than you think
-- AI text watermarking and quality loss
-- Critical Software is rebuilding itself around AI (200 ppl being laid off)
-- Show HN: Read your Character.AI data export in the browser, nothing uploaded
