@@ -5,24 +5,23 @@ sidebar_position: 1
 
 # 📰 最新 AI 动态
 
-> 最后更新：2026-11-10 08:01 ｜ 自动聚合每日新闻简报
+> 最后更新：2026-11-10 08:06 ｜ 自动聚合每日新闻简报
 
 
 ## [2026-11-10 AI News 每日简报](/news/2026-11-10)
 
 
-**2026-11-10** ｜ 10 条动态
+**2026-11-10** ｜ 9 条动态
 
-- The race is on to sue Nvidia
-- Anthropic releases new Mythos and Fable models amid RSI concerns
-- Meta releases Muse Ember, a new lightweight model for agent execution
-- Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines
-- Medium’s new TK app brings AI assistance directly into the writing process
-- Automattic debuts a platform to deploy vibe-coding apps amid a changing internet
-- Why Is AI Slop So Frustrating to Read?
-- AI Bubble Tracker
-- Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity
-- AI labs raise prices without raising prices
+- 英伟达"间谍门"全景：目前已知的一切
+- 起诉英伟达的竞赛开始了：诉讼潮、职位危机与公关止损
+- Anthropic 发布 Claude Fable 5.2 与 Mythos 5.2：Fable 5.2 拿下 Artificial Analysis 史上最高 65 分
+- Anthropic 押注天然气：34 亿美元购入燃气轮机
+- Meta 发布 Muse Ember：面向 Agent 执行的轻量模型
+- 谷歌 TPU 8i Max / 8TX 页面登上 HN 热榜
+- Apple 推出 50 美元"Intelligence 使用包"：AI 功能开始按量收费
+- 迪士尼 × Adobe 共建生成式 AI 工具
+- HN 热议：Google Gemini 被指将用户 Drive 文件与邮件路由给人工标注员
 
 
 ## [2026-11-09 AI News 每日简报](/news/2026-11-09)
