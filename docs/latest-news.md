@@ -5,7 +5,24 @@ sidebar_position: 1
 
 # 📰 最新 AI 动态
 
-> 最后更新：2026-11-09 08:01 ｜ 自动聚合每日新闻简报
+> 最后更新：2026-11-10 08:01 ｜ 自动聚合每日新闻简报
+
+
+## [2026-11-10 AI News 每日简报](/news/2026-11-10)
+
+
+**2026-11-10** ｜ 10 条动态
+
+- The race is on to sue Nvidia
+- Anthropic releases new Mythos and Fable models amid RSI concerns
+- Meta releases Muse Ember, a new lightweight model for agent execution
+- Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines
+- Medium’s new TK app brings AI assistance directly into the writing process
+- Automattic debuts a platform to deploy vibe-coding apps amid a changing internet
+- Why Is AI Slop So Frustrating to Read?
+- AI Bubble Tracker
+- Microsoft Winding Down Oracle Deal to Rent AI Cloud Capacity
+- AI labs raise prices without raising prices
 
 
 ## [2026-11-09 AI News 每日简报](/news/2026-11-09)
@@ -65,10 +82,3 @@ sidebar_position: 1
 - Google 允许学校关闭其 AI 工具——但代价是连搜索一起没了
 - 数据中心等电等到绝望，开始改装老式喷气发动机发电
 - CrowdStrike 发布 AI 安全"Kill Switch"
-
-
-## [2026-11-03 AI News 每日简报](/news/2026-11-03)
-
-
-**2026-11-03** ｜ 0 条动态
-
