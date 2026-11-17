@@ -5,7 +5,24 @@ sidebar_position: 1
 
 # 📰 最新 AI 动态
 
-> 最后更新：2026-11-16 08:01 ｜ 自动聚合每日新闻简报
+> 最后更新：2026-11-17 08:01 ｜ 自动聚合每日新闻简报
+
+
+## [2026-11-17 AI News 每日简报](/news/2026-11-17)
+
+
+**2026-11-17** ｜ 10 条动态
+
+- Nvidia 周二财报：所有它该回答但多半不会回答的问题
+- 加州总检察长就 AI Agent 失控事件起诉 OpenAI
+- 特朗普回应黄仁勋"间谍门"：不构成国家安全威胁
+- Sam Altman 谈没有黄仁勋的 Nvidia：行业会"没事的"
+- FBI：开源 AI 黑客工具 Artex AI "不到三小时"即可攻破网络
+- OpenAI 嵌入 Apollo Research 安全研究员，调查 AI"颠覆性行为"
+- Jordan Belfort 新创 AI 语音销售公司 Tone
+- Ask HN: AI 编程，谁才是真正的赢家？
+- 我们提交了 105 个 AI 生成的联系表单——27 个显示"已发送"，实际什么都没发出
+- 我们让 AI 学会了 Melee 游戏中的 Wombo Combo 协作连招
 
 
 ## [2026-11-16 AI News 每日简报](/news/2026-11-16)
@@ -108,19 +125,3 @@ sidebar_position: 1
 - Fireworks AI 安全事件波及 Notion 及其用户
 - Adobe 为 Photoshop/Premiere/Firefly 带来 AI Agent 与新创作工具
 - Meta AI 助手 Muse 登陆 Apple Watch 与 Android Wear OS
-
-
-## [2026-11-10 AI News 每日简报](/news/2026-11-10)
-
-
-**2026-11-10** ｜ 9 条动态
-
-- 英伟达"间谍门"全景：目前已知的一切
-- 起诉英伟达的竞赛开始了：诉讼潮、职位危机与公关止损
-- Anthropic 发布 Claude Fable 5.2 与 Mythos 5.2：Fable 5.2 拿下 Artificial Analysis 史上最高 65 分
-- Anthropic 押注天然气：34 亿美元购入燃气轮机
-- Meta 发布 Muse Ember：面向 Agent 执行的轻量模型
-- 谷歌 TPU 8i Max / 8TX 页面登上 HN 热榜
-- Apple 推出 50 美元"Intelligence 使用包"：AI 功能开始按量收费
-- 迪士尼 × Adobe 共建生成式 AI 工具
-- HN 热议：Google Gemini 被指将用户 Drive 文件与邮件路由给人工标注员
