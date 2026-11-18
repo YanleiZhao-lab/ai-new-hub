@@ -5,7 +5,24 @@ sidebar_position: 1
 
 # 📰 最新 AI 动态
 
-> 最后更新：2026-11-17 08:01 ｜ 自动聚合每日新闻简报
+> 最后更新：2026-11-18 08:01 ｜ 自动聚合每日新闻简报
+
+
+## [2026-11-18 AI News 每日简报](/news/2026-11-18)
+
+
+**2026-11-18** ｜ 11 条动态
+
+- Nvidia 放弃中国市场：黄仁勋离任后的战略急转弯
+- 英伟达明确拒绝黄仁勋回归：不考虑重新任命其为 CEO
+- SEC 就黄仁勋"间谍门"离职事件调查英伟达
+- 英伟达重申开源 AI 战略不变，确认计划收购 Hugging Face
+- Anthropic IPO 股权曝光：亚马逊与谷歌将合计持股近 30%
+- DeepMind 系 Isomorphic Labs 融资 50 亿美元，冲刺 AI 药物临床
+- AI 模型可被"游戏"话术诱导将平民识别为军事目标
+- OpenAI 发布 GPT-6.2 Astra 与 Sol，高级用户反响冷淡
+- AI 协助发现 Java 重大安全漏洞
+- 亚马逊 170 亿美元俄亥俄 AI 数据中心投资遭遇选民反弹
 
 
 ## [2026-11-17 AI News 每日简报](/news/2026-11-17)
@@ -108,20 +125,3 @@ sidebar_position: 1
 - Meta 长期基础设施负责人离职
 - 美联航禁止 AI Agent 代旅客订机票
 - AI 宣告证明 Aaronson-Ambainis 猜想
-
-
-## [2026-11-11 AI News 每日简报](/news/2026-11-11)
-
-
-**2026-11-11** ｜ 10 条动态
-
-- Anthropic 设定 IPO 定价区间 $70–78/股，隐含估值最高达 1.404 万亿美元
-- Anthropic 全部 7 位联合创始人将在 IPO 中各套现约 2.5 亿美元
-- Anthropic 发布 Claude Meetings：把会议讨论自动变成计划与任务
-- OpenAI 收购旅行初创 Odessia（Sonder 创始人创办）
-- 纽约 AI 安全法案正式生效，OpenAI/Anthropic 迎来新监管
-- 英伟达"间谍门"时间线全景
-- 谷歌扩充 AI 硬件版图：发布两款专用 TPU 芯片
-- Fireworks AI 安全事件波及 Notion 及其用户
-- Adobe 为 Photoshop/Premiere/Firefly 带来 AI Agent 与新创作工具
-- Meta AI 助手 Muse 登陆 Apple Watch 与 Android Wear OS
