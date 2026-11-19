@@ -5,7 +5,24 @@ sidebar_position: 1
 
 # 📰 最新 AI 动态
 
-> 最后更新：2026-11-18 08:01 ｜ 自动聚合每日新闻简报
+> 最后更新：2026-11-19 08:01 ｜ 自动聚合每日新闻简报
+
+
+## [2026-11-19 AI News 每日简报](/news/2026-11-19)
+
+
+**2026-11-19** ｜ 18 条动态
+
+- Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is 'unpatchable'
+- Elon Musk says ousting Jensen Huang is like 'kicking Michael Jordan off your team'
+- Microsoft CEO Satya Nadella remains confident in Nvidia after Huang's exit
+- Satya Nadella predicts AI agents will reshuffle the economics of the web
+- Anthropic reportedly prices IPO at $83 a share, above projected range
+- Nvidia created a weird bit of intrigue by not filing a routine SEC report
+- Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: 'It's time to start running'
+- Palmer Luckey thinks China is 'thrilled to have Jensen out,' so he wants the ousted Nvidia CEO reinstated
+- Snapchat now lets developers build AR Lenses with AI coding assistants like Claude Code and Cursor
+- Google's AI feature in Search gets its own incognito mode
 
 
 ## [2026-11-18 AI News 每日简报](/news/2026-11-18)
@@ -108,20 +125,3 @@ sidebar_position: 1
 - Google 发布 Gemini 4 Hydrogen，Search AI Mode 与 Antigravity 同步升级
 - 美联航以网络安全风险为由，正式禁止 AI Agent 代客订票
 - Nebius 豪掷 400 亿美元押注 AI 基础设施，复制 neocloud 玩法
-
-
-## [2026-11-12 AI News 每日简报](/news/2026-11-12)
-
-
-**2026-11-12** ｜ 10 条动态
-
-- 英伟达股价下跌，董事会据报准备罢免 CEO 黄仁勋
-- 黄仁勋被曝又一段婚外情——对象是英伟达高管
-- 美国国会将传唤黄仁勋，就"中国间谍婚外情"作答
-- OpenAI 单季度营收据报首次突破 100 亿美元
-- CoreWeave 转向客户预付款和更短合同为 AI 扩张输血
-- 英国 Fractile 获 7.2 亿美元融资，加入专用 AI 芯片竞赛
-- 你担心的那些数据中心，可能根本建不起来
-- Meta 长期基础设施负责人离职
-- 美联航禁止 AI Agent 代旅客订机票
-- AI 宣告证明 Aaronson-Ambainis 猜想
