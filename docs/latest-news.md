@@ -5,7 +5,24 @@ sidebar_position: 1
 
 # 📰 最新 AI 动态
 
-> 最后更新：2026-11-20 08:00 ｜ 自动聚合每日新闻简报
+> 最后更新：2026-11-21 08:01 ｜ 自动聚合每日新闻简报
+
+
+## [2026-11-21 AI News 每日简报](/news/2026-11-21)
+
+
+**2026-11-21** ｜ 12 条动态
+
+- AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too
+- AI may have solved the most important problem in mathematics
+- Anthropic's 7 founders cashed out nearly $2B in record-breaking IPO
+- Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street
+- Why Anthropic's blockbuster debut didn't ease Wall Street's AI fears
+- Cursor tells Congress it's considering phasing out foreign open-weight AI models
+- Daniel Ek backs AI researcher's fusion power startup. Here's what they're building.
+- Apple may be developing its own AI agent that runs your Mac
+- Leaky AI supply chain is exposing secret user data at an alarming rate
+- Libreboot Abandons Anti-AI Policy After One Month
 
 
 ## [2026-11-20 AI News 每日简报](/news/2026-11-20)
@@ -98,20 +115,3 @@ sidebar_position: 1
 - 学生全用 AI 交作业，游戏开发竞赛被迫终止
 - 新研究测试 AI 模型是否"知道"自己在想什么
 - 迈向天基高可扩展 AI 基础设施系统设计
-
-
-## [2026-11-14 AI News 每日简报](/news/2026-11-14)
-
-
-**2026-11-14** ｜ 13 条动态
-
-- 黄仁勋离任令 AI 初创融资现"大空洞"，风投与创始人均表担忧
-- AI Agent 初创 LangChain 估值达 30 亿美元
-- 研究证实：中国最强 AI 模型背后是禁运英伟达芯片
-- ChatGPT 推出 Wallet：AI Agent 可代你购物并完成结账
-- 黄仁勋丑闻全景：时间线梳理
-- ElevenLabs 推出团队版会议记录与听写应用 ElevenAI
-- 以色列 VC 在英伟达动荡中看到"挑战者"机会
-- 报道：黄仁勋并未对继任者表达信心
-- FAA 拟投入 8.75 亿美元部署 AI 工具管理空中交通拥堵
-- Cloudflare：适应 AI 渗透测试编排器——现代安全模型
