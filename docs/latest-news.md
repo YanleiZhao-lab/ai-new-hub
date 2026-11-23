@@ -5,7 +5,24 @@ sidebar_position: 1
 
 # 📰 最新 AI 动态
 
-> 最后更新：2026-11-22 08:00 ｜ 自动聚合每日新闻简报
+> 最后更新：2026-11-23 08:01 ｜ 自动聚合每日新闻简报
+
+
+## [2026-11-23 AI News 每日简报](/news/2026-11-23)
+
+
+**2026-11-23** ｜ 13 条动态
+
+- OpenAI’s chief scientist has thoughts on how to limit AI development
+- Why data centers are at the center of the Big Tech backlash
+- A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth
+- What Happened in Fall 2026: AI and P vs. NP
+- Harvard CS 2881R AI Safety
+- AI is becoming a disaster for the climate
+- AI People Are Extremely Rich
+- Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator
+- AI Supply Chain Security: What Canary Tokens Found
+- Current Efforts Aren't Enough to Slow the AI Cyber Virus
 
 
 ## [2026-11-22 AI News 每日简报](/news/2026-11-22)
@@ -88,20 +105,3 @@ sidebar_position: 1
 - Ask HN: AI 编程，谁才是真正的赢家？
 - 我们提交了 105 个 AI 生成的联系表单——27 个显示"已发送"，实际什么都没发出
 - 我们让 AI 学会了 Melee 游戏中的 Wombo Combo 协作连招
-
-
-## [2026-11-16 AI News 每日简报](/news/2026-11-16)
-
-
-**2026-11-16** ｜ 12 条动态
-
-- 印度芯片创企 Bharat Semi 获 2400 万美元种子轮，瞄准全球 AI 传感器市场
-- 黄仁勋的坏消息，也是整个 AI 行业的坏消息？
-- SNL 囊括全部科技大佬：一堂约会与间谍课
-- Reddit 流量下滑 13%，部分归因于 AI Overviews
-- 家长付 7.5 万美元就读 Alpha AI 学校，半数学生未达数学目标
-- 毕加索教会我的 AI Agent 构建之道
-- 所有 AI 生成的代码都应当开源
-- Show HN: db-branch — 基于 ZFS 的秒级数据库分支，面向 AI Agent 与 CI
-- Nvidia 的安全团队去哪了？
-- 马斯克等科技高管联署请愿，呼吁 Nvidia 重新聘用黄仁勋
