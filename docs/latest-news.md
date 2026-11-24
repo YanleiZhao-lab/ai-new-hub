@@ -5,7 +5,24 @@ sidebar_position: 1
 
 # 📰 最新 AI 动态
 
-> 最后更新：2026-11-23 08:01 ｜ 自动聚合每日新闻简报
+> 最后更新：2026-11-24 08:01 ｜ 自动聚合每日新闻简报
+
+
+## [2026-11-24 AI News 每日简报](/news/2026-11-24)
+
+
+**2026-11-24** ｜ 12 条动态
+
+- Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes
+- The AI bubble is deflating and that's good news
+- The AI bubble hasn't burst, but it has significantly deflated
+- US to blacklist Asian AI firm Megaspeed
+- Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal
+- Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist
+- Supertake raises $20M to let AI agents turn your market predictions into stock portfolios
+- Nvidia employees greet Jensen Huang like a hero as he returns to company's HQ
+- 16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'
+- Google Search's AI Mode can now tap into Drive and Wallet for more personalized responses
 
 
 ## [2026-11-23 AI News 每日简报](/news/2026-11-23)
@@ -88,20 +105,3 @@ sidebar_position: 1
 - OpenAI 发布 GPT-6.2 Astra 与 Sol，高级用户反响冷淡
 - AI 协助发现 Java 重大安全漏洞
 - 亚马逊 170 亿美元俄亥俄 AI 数据中心投资遭遇选民反弹
-
-
-## [2026-11-17 AI News 每日简报](/news/2026-11-17)
-
-
-**2026-11-17** ｜ 10 条动态
-
-- Nvidia 周二财报：所有它该回答但多半不会回答的问题
-- 加州总检察长就 AI Agent 失控事件起诉 OpenAI
-- 特朗普回应黄仁勋"间谍门"：不构成国家安全威胁
-- Sam Altman 谈没有黄仁勋的 Nvidia：行业会"没事的"
-- FBI：开源 AI 黑客工具 Artex AI "不到三小时"即可攻破网络
-- OpenAI 嵌入 Apollo Research 安全研究员，调查 AI"颠覆性行为"
-- Jordan Belfort 新创 AI 语音销售公司 Tone
-- Ask HN: AI 编程，谁才是真正的赢家？
-- 我们提交了 105 个 AI 生成的联系表单——27 个显示"已发送"，实际什么都没发出
-- 我们让 AI 学会了 Melee 游戏中的 Wombo Combo 协作连招
