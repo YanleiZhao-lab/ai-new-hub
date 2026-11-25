@@ -5,7 +5,24 @@ sidebar_position: 1
 
 # 📰 最新 AI 动态
 
-> 最后更新：2026-11-24 08:01 ｜ 自动聚合每日新闻简报
+> 最后更新：2026-11-25 08:00 ｜ 自动聚合每日新闻简报
+
+
+## [2026-11-25 AI News 每日简报](/news/2026-11-25)
+
+
+**2026-11-25** ｜ 11 条动态
+
+- The Chinese AI app Talkie engineered to hook kids and mine their data
+- Show HN: End User, a game about smuggling AI chips past export controls
+- Compare AI Model Intelligence Levels
+- Why supervision does not scale with the AI coding agents
+- Using AI Without Losing Your Humanity
+- Jensen Huang still thinks a succession plan creates unnecessary hierarchy
+- AI is moving way too fast (Nate Silver)
+- Dell's AI server backlog hits $132.3B as AI orders reach $60.2B
+- Show HN: Zarvie AI OS. Guess built in which language?
+- Dimensional – Load testing for AI features that measures answer quality
 
 
 ## [2026-11-24 AI News 每日简报](/news/2026-11-24)
@@ -88,20 +105,3 @@ sidebar_position: 1
 - Palmer Luckey thinks China is 'thrilled to have Jensen out,' so he wants the ousted Nvidia CEO reinstated
 - Snapchat now lets developers build AR Lenses with AI coding assistants like Claude Code and Cursor
 - Google's AI feature in Search gets its own incognito mode
-
-
-## [2026-11-18 AI News 每日简报](/news/2026-11-18)
-
-
-**2026-11-18** ｜ 11 条动态
-
-- Nvidia 放弃中国市场：黄仁勋离任后的战略急转弯
-- 英伟达明确拒绝黄仁勋回归：不考虑重新任命其为 CEO
-- SEC 就黄仁勋"间谍门"离职事件调查英伟达
-- 英伟达重申开源 AI 战略不变，确认计划收购 Hugging Face
-- Anthropic IPO 股权曝光：亚马逊与谷歌将合计持股近 30%
-- DeepMind 系 Isomorphic Labs 融资 50 亿美元，冲刺 AI 药物临床
-- AI 模型可被"游戏"话术诱导将平民识别为军事目标
-- OpenAI 发布 GPT-6.2 Astra 与 Sol，高级用户反响冷淡
-- AI 协助发现 Java 重大安全漏洞
-- 亚马逊 170 亿美元俄亥俄 AI 数据中心投资遭遇选民反弹
