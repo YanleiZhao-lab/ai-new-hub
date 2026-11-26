@@ -5,7 +5,24 @@ sidebar_position: 1
 
 # 📰 最新 AI 动态
 
-> 最后更新：2026-11-25 08:00 ｜ 自动聚合每日新闻简报
+> 最后更新：2026-11-26 08:00 ｜ 自动聚合每日新闻简报
+
+
+## [2026-11-26 AI News 每日简报](/news/2026-11-26)
+
+
+**2026-11-26** ｜ 15 条动态
+
+- S&P considers Nvidia credit downgrade over governance and 'key man' risks
+- OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work
+- Anthropic's Dario Amodei calls accusations of surrendering human control to AI 'absurd'
+- Want to buy your kid an AI toy this Christmas? Not in New York
+- Character.AI's plan to auction off users' private chats challenged by state AGs
+- Jensen Huang broke Nvidia's code of conduct, and his employees may not forget it
+- Amazon and Meta reportedly in talks to lift blockade on AI agent Muse
+- AI data centers are becoming harder to build, and neoclouds are feeling it
+- Canaries in the Coal Mine? Six Facts about the Recent Employment Effects of AI
+- Cloudflare AI Search for Agents
 
 
 ## [2026-11-25 AI News 每日简报](/news/2026-11-25)
@@ -88,20 +105,3 @@ sidebar_position: 1
 
 **2026-11-20** ｜ 0 条动态
 
-
-
-## [2026-11-19 AI News 每日简报](/news/2026-11-19)
-
-
-**2026-11-19** ｜ 18 条动态
-
-- Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastructure is 'unpatchable'
-- Elon Musk says ousting Jensen Huang is like 'kicking Michael Jordan off your team'
-- Microsoft CEO Satya Nadella remains confident in Nvidia after Huang's exit
-- Satya Nadella predicts AI agents will reshuffle the economics of the web
-- Anthropic reportedly prices IPO at $83 a share, above projected range
-- Nvidia created a weird bit of intrigue by not filing a routine SEC report
-- Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: 'It's time to start running'
-- Palmer Luckey thinks China is 'thrilled to have Jensen out,' so he wants the ousted Nvidia CEO reinstated
-- Snapchat now lets developers build AR Lenses with AI coding assistants like Claude Code and Cursor
-- Google's AI feature in Search gets its own incognito mode
