@@ -5,7 +5,24 @@ sidebar_position: 1
 
 # 📰 最新 AI 动态
 
-> 最后更新：2026-11-26 08:00 ｜ 自动聚合每日新闻简报
+> 最后更新：2026-11-27 08:01 ｜ 自动聚合每日新闻简报
+
+
+## [2026-11-27 AI News 每日简报](/news/2026-11-27)
+
+
+**2026-11-27** ｜ 11 条动态
+
+- Nvidia hits pause on chip shipments to Southeast Asia
+- Grand Theft Auto VI proves why efficiency isn't a virtue
+- AI made self-hosting fun again
+- Top-cited AI scientists at four US companies compared
+- The US Government Is Under AI Cyberattack
+- Banks look to dump AI debt
+- SAP considers at least 10,000 job cuts in AI restructuring
+- You are mad at AI for the wrong reasons
+- A Warning About AI to My Loved Ones
+- US chip curbs, distillation crackdown threaten Chinese AI model development
 
 
 ## [2026-11-26 AI News 每日简报](/news/2026-11-26)
@@ -98,10 +115,3 @@ sidebar_position: 1
 - Apple may be developing its own AI agent that runs your Mac
 - Leaky AI supply chain is exposing secret user data at an alarming rate
 - Libreboot Abandons Anti-AI Policy After One Month
-
-
-## [2026-11-20 AI News 每日简报](/news/2026-11-20)
-
-
-**2026-11-20** ｜ 0 条动态
-
