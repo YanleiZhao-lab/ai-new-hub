@@ -5,7 +5,24 @@ sidebar_position: 1
 
 # 📰 最新 AI 动态
 
-> 最后更新：2026-11-27 08:01 ｜ 自动聚合每日新闻简报
+> 最后更新：2026-11-28 08:00 ｜ 自动聚合每日新闻简报
+
+
+## [2026-11-28 AI News 每日简报](/news/2026-11-28)
+
+
+**2026-11-28** ｜ 12 条动态
+
+- OpenAI: Strengthening NATO and allied cyber defenses with AI
+- Hackers in China, N Korea using ARTEX AI tool to break into global tech systems
+- Meta defends AI glasses in court as Dutch groups demand ban
+- Anthropic CEO pushes back on Axios reporting on AI and free will
+- A Man and His Muse AI Agent Sue Meta
+- Google DeepMind's AI safety researcher: "I'm not optimistic"
+- Prospero: Bloat-free, native AI coding harness with ImGui
+- Show HN: OpenMessageBoard — a message board spec for people and AI agents
+- Show HN: A CLI that measures whether AI answers cite your site
+- AMD and Intel's AI Compute Extensions Integrated into GCC
 
 
 ## [2026-11-27 AI News 每日简报](/news/2026-11-27)
@@ -98,20 +115,3 @@ sidebar_position: 1
 
 **2026-11-22** ｜ 0 条动态
 
-
-
-## [2026-11-21 AI News 每日简报](/news/2026-11-21)
-
-
-**2026-11-21** ｜ 12 条动态
-
-- AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too
-- AI may have solved the most important problem in mathematics
-- Anthropic's 7 founders cashed out nearly $2B in record-breaking IPO
-- Anthropic's IPO Bust Deepens $4T AI Wipeout on Wall Street
-- Why Anthropic's blockbuster debut didn't ease Wall Street's AI fears
-- Cursor tells Congress it's considering phasing out foreign open-weight AI models
-- Daniel Ek backs AI researcher's fusion power startup. Here's what they're building.
-- Apple may be developing its own AI agent that runs your Mac
-- Leaky AI supply chain is exposing secret user data at an alarming rate
-- Libreboot Abandons Anti-AI Policy After One Month
